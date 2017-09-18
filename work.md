@@ -29,7 +29,7 @@ Read more about my talks and [projects](https://github.com/xolian).
       <h3>
         <a href="{{ post.url }}">
           {{ post.product }}
-          <small>{{ post.vulnerability }}</small>
+          <small>{{ post.title}}</small>
         </a>
       </h3>
     </li>
