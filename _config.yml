@@ -15,7 +15,7 @@ permalink:        pretty
 # Setup
 title:            My Blog
 tagline:          'Brandon Spruth'
-description:      "<a href='https://github.com/xolian' target='_blank'>@xolian</a> on GitHub</br><a href='https://twitter.com/spiceythaipeanut' target='_blank'>@spicythaipeanut</a> on Twitter"
+description:      "<a href='https://github.com/xolian' target='_blank'>@xolian</a> on GitHub</br><a href='https://twitter.com/spicythaipeanut' target='_blank'>@spicythaipeanut</a> on Twitter"
 url:              http://brandon.spruth.co
 
 author:
