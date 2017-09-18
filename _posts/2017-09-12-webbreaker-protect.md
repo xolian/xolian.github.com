@@ -5,7 +5,9 @@ title: DevOps Fortify WebInspect Scanning
 category: talk
 ---
 
-On September 12th, Jeremy Brooks and myself presented for 45 minutes at [Micro Focus Protect 2017](https://softwareevents.microfocus.com/). The presentation was divided into two parts WebInspect's roadmap, which included the proposed micro-service architecture, and Target's new Open-Source project WebBreaker can deliver on the vision by creating a world-class automated Dynamic Application Security Testing (DAST) program.  Unfotunately, the presentation was not broadcasted or recorded on the Protect's digital stream, however below are some of the videos used during our presentation.
+On September 12th, Jeremy Brooks and myself presented for 45 minutes at [Micro Focus Protect 2017](https://softwareevents.microfocus.com/). The presentation was divided into two parts WebInspect's roadmap, which included the proposed micro-service architecture, and Target's new Open-Source project WebBreaker.  Both __WebInspect's__ future re-write and re-design along with __WebBreaker__ are providing greater agility and flexibility to deliver on industry trends with implementing better integration into the SDLC pipeline.
+
+Unfotunately, the presentation was not broadcasted or recorded on the Protect's digital stream, however below are some of the videos used during our presentation.
 
 ### Artifacts
 * [Command line foo with WebBreaker]()
