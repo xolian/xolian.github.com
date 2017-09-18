@@ -1,0 +1,26 @@
+# Pages
+safe: true
+lsi: false
+
+exclude: ["Gemfile", "Gemfile.lock", "README.md"]
+
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            My Blog
+tagline:          'Brandon Spruth'
+description:      "<a href='https://github.com/xolian' target='_blank'>@xolian</a> on GitHub</br><a href='https://twitter.com/spiceythaipeanut' target='_blank'>@spicythaipeanut</a> on Twitter"
+url:              http://brandon.spruth.co
+
+author:
+  name:           'Brandon Spruth'
+
+paginate:         5
+
+github:
+  repo:           https://github.com/xolian/xolian.github.com
