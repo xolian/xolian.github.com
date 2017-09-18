@@ -5,7 +5,7 @@ title: DevOps Fortify WebInspect Scanning
 category: talk
 ---
 
-On September 12th, Jeremy Brooks and myself presented for 45 minutes at [Micro Focus Protect 2017](https://softwareevents.microfocus.com/). The presentation was divided into two parts WebInspect's roadmap, which included the proposed micro-service architecture, and Target's new Open-Source project WebBreaker.  Both __WebInspect's__ future re-write and re-design along with __WebBreaker__ are providing greater agility and flexibility to deliver on industry trends with implementing better integration into the SDLC pipeline.
+On September 12th, Jeremy Brooks and myself presented for 45 minutes at [Micro Focus Protect 2017](https://softwareevents.microfocus.com/). The presentation was divided into two parts WebInspect's roadmap, which included the proposed micro-service architecture, and Target's new Open-Source project WebBreaker.  Both with __WebInspect's__ future re-write and re-design along with __WebBreaker__, are providing greater agility and flexibility to deliver on industry trends, such as improved integration into the SDLC pipeline, Git workflows, etc.
 
 Unfotunately, the presentation was not broadcasted or recorded on the Protect's digital stream, however below are some of the videos used during our presentation.
 
