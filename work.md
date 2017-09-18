@@ -22,9 +22,9 @@ Read more about my talks and [projects](https://github.com/xolian).
   {% endfor %}
 </ul>
 
-<h2>Open-Source Projects</h2>
+<h2>Open Source Projects</h2>
 <ul class="related-posts">
-  {% for post in site.categories.disclosure %}
+  {% for post in site.categories.project %}
     <li>
       <h3>
         <a href="{{ post.url }}">
