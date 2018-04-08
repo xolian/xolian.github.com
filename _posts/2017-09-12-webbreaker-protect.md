@@ -10,9 +10,8 @@ On September 12th, Jeremy Brooks and myself presented for 45 minutes at [Micro F
 Unfotunately, the presentation was not broadcasted or recorded on the Protect's digital stream, however below are some of the videos used during our presentation.
 
 ### Artifacts
-* [Command line foo with WebBreaker]()
-* [Jenkins WebInspect Scanning with WebBreaker]()
-* [Drone WebInspect Scanning with WebBreaker]()
+* [Command line foo with WebBreaker](https://www.youtube.com/watch?v=_r35ITC-ySM&t=8s)
+* [Jenkins WebInspect Scanning with WebBreaker](https://www.youtube.com/watch?v=474u8vFl3os)
 
 ### Links
 * [WebBreaker on GitHub ](https://github.com/target/webbreaker)
