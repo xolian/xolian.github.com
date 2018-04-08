@@ -17,6 +17,7 @@ Unfotunately, the presentation was not broadcasted or recorded on the Protect's 
 * [WebBreaker on GitHub ](https://github.com/target/webbreaker)
 * [WebInspect Python API Library](https://pypi.python.org/pypi/webinspectapi)
 * [Fortify SSC Python API Library](https://pypi.python.org/pypi/fortifyapi)
+* [ThreadFix Pro Python API Library](https://pypi.org/project/threadfixproapi)
 
 ### More Info
 * [WebInspect API](https://community.saas.hpe.com/dcvta86296/attachments/dcvta86296/forify-documentation/2/1/WebInspect%2010.30%20-%20Protocols%20and%20Ports.docx)
